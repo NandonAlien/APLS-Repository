@@ -1,0 +1,36 @@
+EMT notes from ambulance as of 2022-10-16 10:30:14.058336 : 
+Patient ID:  
+Patient name: 
+Patient age: 
+Patient mechanism of injury:  
+Patient injury :  
+Patient signs/symptoms: 
+Treatments administered to patient by EMT: 
+First responder (1):  
+First responder (2):  
+Ambulance License Plate:  
+
+EMT notes from ambulance as of 2022-10-16 12:11:37.775666 : 
+Patient ID: 45678 
+Patient name: John Doe
+Patient age: 45
+Patient mechanism of injury: Fell from tree 
+Patient injury : Broken bone 
+Patient signs/symptoms: pains and bleeding
+Treatments administered to patient by EMT: morphine
+First responder (1): Alex Adams 
+First responder (2): James Maverick 
+Ambulance License Plate: LV56TU7 
+
+EMT notes from ambulance as of 2022-10-16 12:11:41.127995 : 
+Patient ID: 45678 
+Patient name: John Doe
+Patient age: 45
+Patient mechanism of injury: Fell from tree 
+Patient injury : Broken bone 
+Patient signs/symptoms: pains and bleeding
+Treatments administered to patient by EMT: morphine
+First responder (1): Alex Adams 
+First responder (2): James Maverick 
+Ambulance License Plate: LV56TU7 
+
